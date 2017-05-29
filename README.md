@@ -1,7 +1,9 @@
 # AWESOME Online Courses
 [![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/p2pu/AwesomeOnlineCourses)
 
-[Peer 2 Peer University (P2PU)](p2pu.org) supports high-quality learning opportunities beyond institutional walls. We're currently working with libraries and community groups to facilitate peer-led learning circles for people who want to take online courses together and in-person.
+
+[Peer 2 Peer University (P2PU)](https://www.p2pu.org) supports high-quality learning opportunities beyond institutional walls. We're currently working with libraries and community groups to facilitate peer-led learning circles for people who want to take online courses together and in-person.
+
 
 **WE NEED YOUR HELP** to find more **AWESOME** online courses and share this list with educators and facilitators who are running learning circles around the globe.
 
